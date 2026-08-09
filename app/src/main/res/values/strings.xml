@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">फोन गर्नुहोस्</string>
+    <string name="settings_title">Manage Relatives</string>
+    <string name="listening">सुनिरहेको छु…</string>
+    <string name="tap_to_speak">बोल्नको लागि थिच्नुहोस्</string>
+    <string name="not_understood">माफ गर्नुहोस्, फेरि भन्नुहोस्</string>
+    <string name="opening_messenger">%1$s लाई कल गर्दै…</string>
+    <string name="confirm_call_title">%1$s लाई फोन गर्ने?</string>
+    <string name="confirm_call_body">केही सेकेन्डमा आफै कल हुनेछ। रोक्न "रद्द गर्नुहोस्" थिच्नुहोस्।</string>
+    <string name="confirm_call_now">हो, कल गर्नुहोस्</string>
+    <string name="confirm_cancel">रद्द गर्नुहोस्</string>
+</resources>
